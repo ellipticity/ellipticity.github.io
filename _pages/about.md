@@ -3,6 +3,8 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+This is just a collection of some of my thoughts, experiences and observations I've had working in STEM over the years. 
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+I don't claim anything on here to be terribly original, but I have been around long enough to acquire a perspective utterly devoid of fucks left to give. That isn't to say I'm here to fan the flames of enragement; there's already too much of that around on the inter-webs. Instead, I more try to think about what words would have really helped a younger version of myself: someone with half my problems and twice my worries. 
+
+Unfortunately, there are no answers here and there never will be; but if something in here makes someone feel a little less alone in their thoughts, fears, experience, joys... whatever, then I'd consider the effort here well worth it.

@@ -16,9 +16,9 @@
 title: Ephemeral Persistence
 # email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Just another tech. blog.
+  A collection of thoughts and observations about life in STEM that are hopefully more persistent than ephemeral :smirk:
 # twitter_username: username
-github_username: ellipticity
+# github_username: ellipticity
 minimal_mistakes_skin: dark
 search: true
 
@@ -29,7 +29,7 @@ remote_theme: mmistakes/minimal-mistakes
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Europe/Dublin
 
 include:
   - _pages
@@ -59,16 +59,16 @@ author:
   # name   : "First Lastname"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Just another tech. blogger"
-  links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
+#  links:
+#    - label: "Website"
+#      icon: "fas fa-fw fa-link"
+#      url: "https://"
 #    - label: "Twitter"
 #      icon: "fab fa-fw fa-twitter-square"
 #      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+#    - label: "GitHub"
+#      icon: "fab fa-fw fa-github"
+#      url: "https://github.com/"
 #    - label: "Instagram"
 #      icon: "fab fa-fw fa-instagram"
 #      url: "https://instagram.com/"
@@ -78,9 +78,9 @@ footer:
 #    - label: "Twitter"
 #      icon: "fab fa-fw fa-twitter-square"
 #      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+#    - label: "GitHub"
+#      icon: "fab fa-fw fa-github"
+#      url: "https://github.com/"
 #    - label: "Instagram"
 #      icon: "fab fa-fw fa-instagram"
 #      url: "https://instagram.com/"
